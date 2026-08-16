@@ -3,6 +3,7 @@ Basics
  - Anvil
  - Workbench
  - Trash
+ - Clearlag
 
 Economy
  - Coins + Rubine
@@ -10,6 +11,12 @@ Economy
  - Baltop
  - Daily Rewards
  - Interaction Historys
+
+Sync (https://builtbybit.com/resources/husksync-cross-server-data-syncing.34956/)
+ - Inventory
+ - Enderchest
+ - Effects
+ - XP
 
 Plots
  - 'P2'
@@ -32,8 +39,32 @@ Clans
  - Bank
  - Base (Worlds)
 
+Shop
+ - Miner
+ - Hunter
+ - Fisher
+ - Lumberjack
+
+Texturepack
+ - Java
+    - https://nexomc.com/products/nexo
+ - Bedrock
+    - https://nexomc.com/products/scaffolding
+
 Teleport
  - Homes
  - Tpa
+ - Tpyhere
  - Server-Warps
  - Player-Warps
+
+Enchants
+ - Tunnel (3x3)
+ - Smelter (automatic smelts an ore if the player mine it)
+ - Telekinese (automatic picks up the item the player brakes)
+ - Sniper (Doubles the speed of an arrow)
+ - Soul Bound (Prevents item from being dropped upon death)
+ - Restore (Saves item from breaking once)
+ - ForeKnock (Reduces Knockback when getting damage)
+ - Treefeller (Mines the whole ore vein at once)
+ - Replanter (Replants Crops on harvest or right-click)
