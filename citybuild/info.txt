@@ -1,22 +1,39 @@
+Basics
+ - Enderchest
+ - Anvil
+ - Workbench
+ - Trash
+
 Economy
  - Coins + Rubine
  - Pay 
  - Baltop
+ - Daily Rewards
+ - Interaction Historys
 
 Plots
  - 'P2'
- - PlotMenu
+ - PlotMenu (Biome, Wall, Floor, Boarder, Weather)
 
 Shop
  - 'Amazon Basket'
+ - Trade
+ - Chest Shop
+ - Rank Shop
 
 Chat
  - Msg
  - Global Chat
  - Team Chat
- - Group Chats (2-10 Spieler)
+ - Group Chats (2-10 Players)
 
 Clans
  - Level
  - Bank
  - Base (Worlds)
+
+Teleport
+ - Homes
+ - Tpa
+ - Server-Warps
+ - Player-Warps
