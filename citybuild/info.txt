@@ -4,6 +4,8 @@ Basics
  - Workbench
  - Trash
  - Clearlag
+ - Scoreboard
+ - Join Message System
 
 Economy
  - Coins + Rubine
