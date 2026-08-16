@@ -1,1 +1,12 @@
+Core
+ - Maintenance
+ - Restart
+ - Motd
+ - Player Routing
+ - Alerts
+ - Broadcast
 
+Punish
+ - Bans
+ - Mute
+ - Kick
