@@ -5,6 +5,13 @@ Core
  - Player Routing
  - Alerts
  - Broadcast
+ - Playtime
+ - Hub
+
+Protection
+ - Ip4/IP6 Blocking
+ - Anti Bot 
+ - Slow connection
 
 Punish
  - Bans
