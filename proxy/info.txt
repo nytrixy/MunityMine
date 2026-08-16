@@ -2,7 +2,7 @@ Core
  - Maintenance
  - Restart
  - Motd
- - Player Routing
+ - Player Routing*
  - Alerts
  - Broadcast
  - Playtime
@@ -12,6 +12,10 @@ Protection
  - Ip4/IP6 Blocking
  - Anti Bot 
  - Slow connection
+
+NodeManager*
+ - Player Routing
+ - Auto Server Status
 
 Punish
  - Bans
