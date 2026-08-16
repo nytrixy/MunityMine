@@ -1,5 +1,5 @@
-**Version: ** 26.1.2
+**Version:** 26.1.2
 
-**Software: ** Papermc + Velocity
+**Software:** Papermc + Velocity
 
-**Database: ** MariaDB (MySQL) ggf. Redis
+**Database:** MariaDB (MySQL) ggf. Redis
