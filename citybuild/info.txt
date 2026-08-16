@@ -9,6 +9,7 @@ Basics
 
 Economy
  - Coins + Rubine
+ - Bank
  - Pay 
  - Baltop
  - Daily Rewards
