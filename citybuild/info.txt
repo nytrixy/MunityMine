@@ -6,6 +6,9 @@ Basics
  - Clearlag
  - Scoreboard
  - Join Message System
+ - NoWorldFlood
+ - villager lobotomize (only inside trading stations)
+ - dropped item stacker
 
 Economy
  - Coins + Rubine
