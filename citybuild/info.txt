@@ -27,6 +27,7 @@ Shop
  - Trade
  - Chest Shop
  - Rank Shop
+ - Auktionhaus
 
 Chat
  - Msg
