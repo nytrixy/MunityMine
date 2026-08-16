@@ -22,6 +22,7 @@ Punish
  - Bans
  - Mute
  - Kick
+ - Voice Mute (hooks with SimpleVoiceChat and ggf. with LunarClient & LabyMode)
 
 Friends
 Discord Verify
