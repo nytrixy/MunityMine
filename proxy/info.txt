@@ -10,3 +10,5 @@ Punish
  - Bans
  - Mute
  - Kick
+
+Friends
