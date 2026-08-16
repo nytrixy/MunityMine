@@ -1,1 +1,22 @@
+Economy
+ - Coins + Rubine
+ - Pay 
+ - Baltop
 
+Plots
+ - 'P2'
+ - PlotMenu
+
+Shop
+ - 'Amazon Basket'
+
+Chat
+ - Msg
+ - Global Chat
+ - Team Chat
+ - Group Chats (2-10 Spieler)
+
+Clans
+ - Level
+ - Bank
+ - Base (Worlds)
