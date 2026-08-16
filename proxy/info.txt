@@ -19,3 +19,5 @@ Punish
  - Kick
 
 Friends
+Discord Verify
+Discord Webhook Uptime Status
