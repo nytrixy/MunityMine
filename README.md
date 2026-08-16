@@ -13,4 +13,4 @@
  - SimpleVoiceChat *
 
 
-* can be replaced with server side made ons or completely removes 
+plugins marked with '*' can be replaced with server side made ones or can completely removed
