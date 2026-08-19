@@ -43,7 +43,7 @@ Clans
  - Bank
  - Base (Worlds)
 
-Shop
+Jobs
  - Miner
  - Hunter
  - Fisher
