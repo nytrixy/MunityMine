@@ -1,18 +1,7 @@
 Core
- - Maintenance
- - Restart
  - Motd
  - Player Routing*
- - Alerts
- - Broadcast
  - Playtime
- - Hub
- - Tablist
-
-Protection
- - Ip4/IP6 Blocking
- - Anti Bot 
- - Slow connection
 
 NodeManager*
  - Player Routing
