@@ -11,9 +11,6 @@ Basics
  - dropped item stacker
 
 Economy
- - Coins + Rubine
- - Bank
- - Pay 
  - Baltop
  - Daily Rewards
  - Interaction Historys
